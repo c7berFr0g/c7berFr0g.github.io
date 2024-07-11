@@ -1,17 +1,35 @@
-# Welcome to MkDocs
+# Welcome to Cyber-Frog-Linux
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+To contact zydaljasmy51@gmail.com
 
-## Commands
+## Blog sections
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Peripheral Tools (6)
+byte (storage unit) (1)
+Free Software (165)
+Email (1)
+Intranet Security (108)
+Desktop environment (13)
+Intrusion detection software (6)
+ISO boot/burning software (1)
+Penetration Testing Distributions (54)
+Security and incognito distributions (13)
+Server Distributions (23)
+Maintenance Distributions (25)
+GNU Linux Distributions (54)
+Distributions for old and weak devices (21)
+Packaging dispensers and tools (37)
+Foundations Writing Award (24)
+GNU/Linux (4)
+Computer hardware (1)
+Courses and books (32)
+Password Manager (12)
+Articles by Khaled Al-Musayhij (37)
+Intranet sites (9)
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## Description
+
+ An educational blog to solve problems related to Linux systems, useful information, and the most important programs that can be used in Linux.
+
